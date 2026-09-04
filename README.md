@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o [jaciel de Paula Trajano ] 👋
 
-<!--
-**jacielchico/jacielchico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e resolução de problemas.
 
-Here are some ideas to get you started:
+# Sobre mim
+-  Cursando **Análise e Desenvolvimento de Sistemas**
+-  Atualmente estudando **Lógica de Programação, Algoritmos e Modelagem de Dados**
+-  Objetivo: Desenvolver habilidades em desenvolvimento de software e engenharia de requisitos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tecnologias e Ferramentas
+- **Linguagens:** JavaScripit, Python, HTML e CSS
+- **Ferramentas:** Git, GitHub, VS Code
+- **Conceitos:** Lógica de Programação, Fluxogramas, Modelagem de Dados
+
+#  Onde me encontrar
+- **LinkedIn:** https://www.linkedin.com/in/jacyell-de-paula-trajano-033b4342b/
