@@ -1,4 +1,4 @@
-# Olá, eu sou o [jaciel de Paula Trajano ] 👋
+# Olá, eu sou o [jaciel de Paula Trajano ] 
 
 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e resolução de problemas.
 
